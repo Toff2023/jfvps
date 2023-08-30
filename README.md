@@ -1,4 +1,4 @@
-# jfvps
+# JF VPS-一个致力于数据的互联
 
 <p>●首先我们开了一个IDC站，他的名字是：齐矾数据<p>
 <p>|官网: https://www.jfvps.cn<p>
